@@ -1,4 +1,4 @@
-<img src="GhostNet_logov1.PNG" align="right" height=50% width=50%>
+<img src="GhostNet_logov1.PNG" height=50% width=50%>
 
 GhostNet
 =====
